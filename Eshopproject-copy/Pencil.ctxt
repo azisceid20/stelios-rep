@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Pencil
+comment1.params=iname\ price\ description\ stock\ id\ tipSize\ type
+comment1.target=Pencil(java.lang.String,\ double,\ java.lang.String,\ int,\ int,\ double,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getCategory()
+comment3.params=
+comment3.target=java.lang.String\ getDetails()
+comment4.params=
+comment4.target=java.lang.Double\ getTipSize()
+comment5.params=tipSize
+comment5.target=void\ setTipSize(double)
+comment6.params=
+comment6.target=java.lang.String\ getType()
+comment7.params=type
+comment7.target=void\ setType(java.lang.String)
+numComments=8

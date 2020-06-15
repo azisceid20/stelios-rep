@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=ShoppingCart
+comment1.params=b
+comment1.target=ShoppingCart(Buyer)
+comment10.params=
+comment10.target=double\ calculateCourierCost()
+comment2.params=order
+comment2.target=void\ addItemOrdered(ItemOrdered)
+comment3.params=item\ quantity
+comment3.target=void\ addItemOrdered(Item,\ int)
+comment4.params=itorder
+comment4.target=void\ removeItemOrdered(ItemOrdered)
+comment5.params=itorder\ changedQuantity
+comment5.target=void\ changeItemOrderedQuantity(ItemOrdered,\ int)
+comment6.params=
+comment6.target=java.util.HashMap\ showCart()
+comment7.params=
+comment7.target=void\ clearCart()
+comment8.params=
+comment8.target=void\ checkout()
+comment9.params=
+comment9.target=double\ calculateNet()
+numComments=11

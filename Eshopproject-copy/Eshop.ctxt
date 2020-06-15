@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Eshop
+comment1.params=shopname
+comment1.target=Eshop(java.lang.String)
+comment10.params=a
+comment10.target=void\ showProduct(Item)
+comment11.params=
+comment11.target=java.lang.String\ getShopName()
+comment12.params=
+comment12.target=void\ checkStatus()
+comment2.params=item
+comment2.target=void\ addItem(Item)
+comment3.params=item\ newStock
+comment3.target=void\ updateItemStock(Item,\ int)
+comment4.params=id
+comment4.target=Item\ getItemByld(int)
+comment5.params=item
+comment5.target=void\ removeItem(Item)
+comment6.params=buyer
+comment6.target=void\ addBuyer(Buyer)
+comment7.params=buyer
+comment7.target=void\ removeBuyer(Buyer)
+comment8.params=
+comment8.target=java.util.HashMap\ showCategories()
+comment9.params=category
+comment9.target=void\ showProductInCategory(java.lang.String)
+numComments=13
